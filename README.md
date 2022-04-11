@@ -1,11 +1,11 @@
 # Hi, I'm Sziperd! 👋
-<img src="https://github.com/Sziperd/Portfolio/blob/main/My%20project.png?raw=true" alt="banner that says Patryk Piwowarczyk">
+<img src="https://github.com/Sziperd/Portfolio/blob/main/My%20project-2.png?raw=true" alt="banner that says Patryk Piwowarczyk">
 
 
 
 ###### Welcome to my page, happy to see you!
 
-I'm a passionate iOS engineer who loves designing, coding and generally creating stuff on the internet. Currently a Polsl student majoring automatic control and robotics, electronics, telecommunication and informatics.
+I'm a passionate iOS engineer who loves designing, coding and generally creating stuff on the internet. Currently I'm a Polsl student majoring automatic control and robotics, electronics, telecommunication and informatics.
 
 Currently looking for an iOS Dev job / internship.
 
