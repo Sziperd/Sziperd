@@ -7,7 +7,7 @@
 
 I'm a passionate iOS engineer who loves designing, coding and generally creating stuff on the internet. Currently I'm a Polsl student majoring automatic control and robotics, electronics, telecommunication and informatics.
 
-Currently looking for an iOS Dev job / internship.
+
 
 
 ## Find me around the web 🌎:<a href="https://www.instagram.com/sziperd_design/"><img align="left" width="150" height="150" src="https://github.com/Sziperd/Portfolio/blob/main/UJvjpCkQ_4x.jpg.png?raw=true"></a>
