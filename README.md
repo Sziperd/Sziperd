@@ -16,5 +16,4 @@ I graduated automatic control and robotics, electronics, telecommunication, info
 - GH Pages Portfolio - [Pages](https://sziperd.github.io) 📌
 - Instagram Portfolio - [@sziperd_design](https://www.instagram.com/sziperd_design/) 📱
 - LinkedIn - [Patryk Piwowarczyk](https://www.linkedin.com/in/patryk-piwowarczyk-45b427199/) 💼
-- Discord - ShepHerd90#9292 📞
 
