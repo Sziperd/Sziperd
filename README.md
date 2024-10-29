@@ -14,11 +14,17 @@ I'm a passionate iOS engineer who loves designing, coding, and creating engaging
 ### Tech Stack
 
 • Swift
+
 • RxSwift, UIKit, SwiftUI, Core ML
+
 • CocoaPods, Package Manager
+
 • DRM, Fairplay
+
 • RxTest, XCTest
+
 • Snapshot Tests, Gherkin Tests
+
 • Core Data, REST, Firebase,
 Contentful, Lottie, Featurevisor
 
