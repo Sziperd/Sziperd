@@ -26,10 +26,13 @@ I'm a passionate iOS engineer who loves designing, coding, and creating engaging
 • Snapshot Tests, Gherkin Tests
 
 • Core Data, REST, Firebase,
-Contentful, Lottie, Featurevisor
+Contentful, Lottie, Featurevisor, Figma
 
 
-### Currently, I'm an Associate iOS Engineer at DAZN that tries to launch own app ideas to appstore soon!.
+### Currently, I'm an Associate iOS Engineer at DAZN, building great experiences for users. 
+
+### I’ve also launched Circler on the App Store—go check it out! And this is just the beginning—more apps are on the way!
+Circler - [AppStore](https://apps.apple.com/pl/app/circler-draw-perfect-circle/id6737745540?l=pl) 📱
 
 
 ## Find me around the web 🌎:<a href="https://www.instagram.com/sziperd_design/"><img align="left" width="150" height="150" src="https://github.com/Sziperd/Portfolio/blob/main/UJvjpCkQ_4x.jpg.png?raw=true"></a>
